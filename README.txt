@@ -13,7 +13,7 @@ Template for running LAMMPS box relaxation calculations.
 ## Files
 
 - `config.cfg.template` - Configuration template (copy to config.cfg)
-- `boxrelax.in` - LAMMPS input file
+- `min_boxr.in` - LAMMPS input file
 - `run.sbatch` - SLURM submission script
 - `submit.sh` - Wrapper script to submit job
 
