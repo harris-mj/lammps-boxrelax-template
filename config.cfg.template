@@ -2,6 +2,7 @@
 
 #source ~/.bashrc
 
+HPC="bb,bv"
 model="CHANGEME"
 model_path="${MODEL_PATH}/${model}.model-lammps.pt"
 

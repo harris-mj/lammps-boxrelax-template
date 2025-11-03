@@ -1,0 +1,3 @@
+[submodule "external/mace-scripts"]
+	path = external/mace-scripts
+	url = git@github.com:harris-mj/mace-scripts.git
